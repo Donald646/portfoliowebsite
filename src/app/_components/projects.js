@@ -23,7 +23,7 @@ export default function Projects() {
       />
       <SingleProject
         title="HitchHikr 👍🏼"
-        desc="Worked with a partner during the Uber Global Hackathon to develop a ride sharing app that allows users that puts a twist on carpooling"
+        desc="Worked with a partner during the Uber Global Hackathon to develop a ride sharing app that puts a twist on carpooling"
         link="https://github.com/Sectonic/Virtual-Hackathon-Submission?tab=readme-ov-file#api-endpoints"
       />
     </div>
