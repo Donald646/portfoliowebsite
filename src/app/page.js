@@ -1,4 +1,3 @@
-import { Metadata } from "next";
 import About from "./_components/about";
 import Experience from "./_components/experience";
 import Header from "./_components/header";
