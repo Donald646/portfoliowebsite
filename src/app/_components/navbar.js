@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 const navItems = ["About", "Experience", "Projects"];
@@ -25,6 +26,7 @@ export default function Navbar() {
         <a href="https://www.linkedin.com/in/donald-chu-036527263/">
           <Image src="linkedin.svg" className="h-8 md:h-auto" alt="Linkedin" />
         </a>
+
         <a href="/contact">
           <Image src="email.png" className=" h-8 md:h-auto" alt="email" />
         </a>
