@@ -5,7 +5,7 @@ const navItems = ["About", "Experience", "Projects"];
 
 export default function Navbar() {
   return (
-    <div className="nav w-1/2 sm:w-full sm:fixed top-0 z-10 font-lg text-white flex flex-col md:flex-row justify-between p-4">
+    <div className="nav w-1/2 sm:w-full sm:fixed top-0 z-10 font-lg text-white flex flex-col md:flex-row justify-between p-4 border-b-4 border-indigo-500">
       <div className="flex flex-row md:space-x-3 md:text-lg">
         {navItems.map((item) => {
           return (
