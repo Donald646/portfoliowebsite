@@ -12,9 +12,9 @@ export default function About() {
         new things
       </p>
       <p className="w-full text-base font-light">
-        Ever since I picked up web development two years ago I have been
-        fascinated with the endless possibilities it offers and the power behind
-        code
+        I learned how to code about four years ago, but ever since I got a
+        interest in web development two years ago I have been fascinated with
+        the endless possibilities it offers and the power behind code
       </p>
     </div>
   );
