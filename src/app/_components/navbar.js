@@ -23,7 +23,7 @@ export default function Navbar() {
         <a href="https://github.com/Donald646">
           <Image
             src="/githubicon.png"
-            width={50}
+            width={35}
             height={50}
             className="h-8 md:h-auto"
             alt="GitHub"
@@ -32,7 +32,7 @@ export default function Navbar() {
         <a href="https://www.linkedin.com/in/donald-chu-036527263/">
           <Image
             src="/linkedin.svg"
-            width={50}
+            width={35}
             height={50}
             className="h-8 md:h-auto"
             alt="Linkedin"
@@ -42,7 +42,7 @@ export default function Navbar() {
         <a href="/contact">
           <Image
             src="/email.png"
-            width={50}
+            width={35}
             height={50}
             className=" h-8 md:h-auto"
             alt="email"
