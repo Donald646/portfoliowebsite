@@ -21,32 +21,14 @@ export default function Navbar() {
       </div>
       <div className="flex flex-row mt-3 md:mt-0 md:ml-auto">
         <a href="https://github.com/Donald646">
-          <Image
-            src="/githubicon.png"
-            width={35}
-            height={50}
-            className="h-8 md:h-auto"
-            alt="GitHub"
-          />
+          <img src="/githubicon.png" className="h-8 md:h-auto" alt="GitHub" />
         </a>
         <a href="https://www.linkedin.com/in/donald-chu-036527263/">
-          <Image
-            src="/linkedin.svg"
-            width={35}
-            height={50}
-            className="h-8 md:h-auto"
-            alt="Linkedin"
-          />
+          <img src="/linkedin.svg" className="h-8 md:h-auto" alt="Linkedin" />
         </a>
 
         <a href="/contact">
-          <Image
-            src="/email.png"
-            width={35}
-            height={50}
-            className=" h-8 md:h-auto"
-            alt="email"
-          />
+          <img src="/email.png" className=" h-8 md:h-auto" alt="email" />
         </a>
       </div>
     </div>
