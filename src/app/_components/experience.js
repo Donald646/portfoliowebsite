@@ -11,12 +11,14 @@ export default function Experience() {
         </p>
         <p className="text-gray-400 text-base w-full font-light">
           Worked as a full stack engineer working on both serverless apis, and
-          Next.js frontend. Implemented bug fixes, new features, and worked
+          Next.js frontend. Implemented bug fixes, AI chatboot tools, and worked
           collaboratively to improve the app.
         </p>
         <p className="text-lg font-normal mt-3 underline italic">
           Research Intern -{" "}
-          <span className="not-italic font-bold">University of Houston</span>
+          <span className="not-italic font-bold">
+            University of Houston-Victoria
+          </span>
         </p>
         <p className="text-gray-400 text-base w-full font-light">
           Did research under Professor Tomitaka, from University of Houston on
@@ -37,6 +39,28 @@ export default function Experience() {
           currently developing a learning platform to teach kids how to program
         </p>
       </div>
+      <div>
+        <p className="text-lg font-normal mt-3 underline italic">
+          AI Research Engineer -{" "}
+          <span className="not-italic font-bold">
+            ELSA (Google-backed Top 5 AI Startup, SXSW 2016 winner, World
+            Economic Forum 100 Tech Pioneers)
+          </span>
+        </p>
+        <p className="text-gray-400 text-base w-full font-light">
+          In charge of curriculum at Compute the Future Foundation, and
+          currently developing a learning platform to teach kids how to program
+        </p>
+      </div>
     </div>
   );
 }
+
+`
+     	Lisbon, PT
+AI Research Engineer	July 2024
+Developed AI avatars that represent different personalities to help personalize learning paths for language learners
+Used LLMs, with fine-tuning and prompt-engineer to create complex scenarios and personalities for learning.
+Worked with a team of leading AI and ML scientists based in Lisbon
+
+`;

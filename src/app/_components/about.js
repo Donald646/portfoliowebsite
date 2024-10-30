@@ -8,7 +8,7 @@ export default function About() {
     >
       <p className="text-left text-2xl font-medium">About</p>
       <p className="w-full  text-base font-light">
-        I am a 11th grader passionate about software development and building
+        I am a 12th grader passionate about software development and building
         new things
       </p>
       <p className="w-full text-base font-light">
